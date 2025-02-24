@@ -60,6 +60,7 @@ ANN: This is suitable for large datasets, allowing the model to learn meaningful
 If given more time and resources, we could gather a larger dataset, possibly from different institutions or education levels to make te results more generalizable. Collecting data over a longer period of time to record the changes in performance could help show the impact of various factors. We could also incorporate more variables like having data on factors like if students have access to tutoring, different social media usages or the use of specific teaching styles. More time would also allow for performing extensive checks for bias in the data or model, which could help ensure that the results are valid and equitable. Our work could also be improved with the addition of visualizations or dashboards to communicate the results/findings in a more efficient manner.
 
 credits:
+
 noah:code 
 
 serene:readme file
